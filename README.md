@@ -3,8 +3,9 @@ Welcome to my profile, I am a software development student at codeSpace academy,
 
 I am an introverted person, I find solace in sunsets,sunrise,rain and the ocean.
 
-below are some of the projects that I worked on:1. https://github.com/lilanga96/Kitchen-app 
-                                                2.
+below are some of the projects that I worked on:1.Kitchen- app https://github.com/lilanga96/Kitchen-app 
+
+                                                2.Book app- https://github.com/lilanga96/Book-connect
 
 
 <!--
