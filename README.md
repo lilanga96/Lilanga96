@@ -6,11 +6,11 @@ I am an introverted person, I find solace in sunsets,sunrise,rain and the ocean.
 below are some of the projects that I worked on:
 
 
-1.Kitchen-app https://github.com/lilanga96/Kitchen-app 
+  1.Kitchen-app https://github.com/lilanga96/Kitchen-app 
 
-2.Book-app https://github.com/lilanga96/Book-connect
+ 2.Book-app https://github.com/lilanga96/Book-connect
 
-3. podcast-app
+3. podcast-app https://github.com/lilanga96/myPodcast-App
 
 
                                                
