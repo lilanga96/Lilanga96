@@ -9,7 +9,6 @@ below are some of the projects that I worked on:
   1.Kitchen-app https://github.com/lilanga96/Kitchen-app 
 
  2.Book-app https://github.com/lilanga96/Book-connect
-
 3. podcast-app https://github.com/lilanga96/myPodcast-App
 
 
