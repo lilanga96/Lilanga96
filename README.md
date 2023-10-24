@@ -10,7 +10,7 @@ below are some of the projects that I worked on:
 
  2.Book-app https://github.com/lilanga96/Book-connect
  
- 3. podcast-app https://github.com/lilanga96/myPodcast-App
+ 3. podcast-app https://github.com/lilanga96/Podcast-shows
 
 
                                                
