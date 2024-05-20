@@ -1,17 +1,8 @@
 ### Hi there 👋
-Welcome to my profile, I am a recent software development graduate from codeSpace academy,  I fell inlove with coding when I enrolled on a web design course in 2022, upon realising my pontential and seeing how much I enjoyed the course, I then enrolled for the software development programme. since then I have been trying on new challenges and looking for ways to enhance my skills in the software development world. 
+Welcome to my profile, I am a recent software development graduate from codeSpace academy, 
+I find immense pleasure in translating design concepts into seamless and interactive webpages using HTML, CSS, JavaScript, and React. With a keen eye for detail and a passion for creating visually stunning and user-friendly experiences, I thrive on the challenge of bringing creative visions to life on the web.
 
-I am an introverted person, I find solace in sunsets,sunrise,rain and the ocean.
-
-below are some of the projects that I worked on:
-
-
-  1.Kitchen-app https://github.com/lilanga96/Kitchen-app 
-
- 2.Book-app https://github.com/lilanga96/Book-connect
- 
- 3. podcast-app https://github.com/lilanga96/Podcast-shows
-
+My expertise spans a wide range of front-end technologies, allowing me to craft responsive and accessible interfaces that engage users across all devices. I am proficient in leveraging modern web development tools and frameworks, ensuring that each project is built with clean, maintainable, and scalable code.
 
                                                
                                                 
